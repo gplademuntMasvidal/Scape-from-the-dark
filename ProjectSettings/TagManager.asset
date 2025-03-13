@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - REPULSIVE
+  - BLUE_BOID
+  - BOUQUET
+  - SAM
+  - WORM
+  - RED_BOID
+  - CHOCOLATES
+  - GUT
+  - SEED
+  - NERD
+  - ATTACKER
+  - CHEESE
+  - MOUSE
+  - BOID
+  - CHICK
+  - WANDERPOINT
+  - COLLECTIONPOINTS
+  - LIGHT
+  - FIRE
+  - streetLight
+  - streetLightOff
+  - door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - LIGHT
+  - Water
+  - UI
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
